@@ -1,0 +1,2 @@
+export const APIKEY ="eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmM2M0YjkyY2I5MWZiNzlkZDg1YTE1NjZkNGJmNDEyNiIsInN1YiI6IjY0NWIxYTkzNzdkMjNiMDE3MDM4ODI3YiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.35APmgv1z9NHdyrXic8RhUajwchzfQR466DiOVEakak";
+export const BASEURL ="https://api.themoviedb.org/3/trending/movie/day?language=en-US";
